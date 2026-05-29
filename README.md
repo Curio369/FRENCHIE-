@@ -19,7 +19,7 @@
 
 | 🇫🇷 French Side | 🇬🇧 English Side |
 |:-:|:-:|
-| ![French Card](img/Sample_french_img.png) | ![English Card](img/Sample_English_img.png) |
+| ![French Card](images/Sample_french_img.png) | ![English Card](images/Sample_English_img.png) |
 | *Card shows the French word* | *Flips automatically after 3 seconds* |
 
 </div>
